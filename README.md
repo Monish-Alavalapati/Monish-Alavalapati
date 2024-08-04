@@ -1,7 +1,14 @@
-# Hey 👋, I am Monish 
-🔭 I’m currently working on Approximate Computing and SoC architecture <br>👯 I’m looking to collaborate on research papers<br>🌱 I’m currently learning physical design in VLSI<br>👨‍💻 All of my projects are available at https://github.com/Monish-Alavalapati<br>💬 Ask me about anything<br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uaRRT1JIIcv--yr1PEAX5czZK5wnrBF1/view?usp=sharing)<br>⚡ Fun fact I'm a professional minesweeper player :)
+<h1 align="center">Hey 👋, I'm Monish</h1>
+<h3 align="center">A passionate VLSI and FPGA Developer from IIIT Kottayam</h3>
 
-
+- 🔭 I’m currently working on Approximate Computing and SoC architecture
+- 👯 I’m looking to collaborate on research papers
+- 🌱 I’m currently learning physical design in VLSI
+- 👨‍💻 All of my projects are available at https://github.com/Monish-Alavalapati
+- 💬 Ask me about anything
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uaRRT1JIIcv--yr1PEAX5czZK5wnrBF1/view?usp=sharing)
+- ⚡ Fun fact I'm a professional minesweeper player :)
+- 📫 How to reach me **alavalapati22bec16@iiitkottayam.ac.in**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/monish_642) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/monishalavalapati) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/remissvampire) 
 
