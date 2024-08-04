@@ -1,5 +1,5 @@
 # Hey 👋, I am Monish 
-🔭 I’m currently working on Approximate Computing and SoC architecture<br>👯 I’m looking to collaborate on research papers<br>🌱 I’m currently learning physical design in VLSI<br>👨‍💻 All of my projects are available at https://github.com/Monish-Alavalapati<br>💬 Ask me about anything<br>📄 Know about my experiences [Resume] https://drive.google.com/file/d/1uaRRT1JIIcv--yr1PEAX5czZK5wnrBF1/view?usp=sharing<br>⚡ Fun fact I'm a professional minesweeper player :)
+🔭 I’m currently working on Approximate Computing and SoC architecture<br>👯 I’m looking to collaborate on research papers<br>🌱 I’m currently learning physical design in VLSI<br>👨‍💻 All of my projects are available at https://github.com/Monish-Alavalapati<br>💬 Ask me about anything<br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uaRRT1JIIcv--yr1PEAX5czZK5wnrBF1/view?usp=sharing)<br>⚡ Fun fact I'm a professional minesweeper player :)
 
 
 ## 🌐 Socials:
