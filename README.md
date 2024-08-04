@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Approximate Computing and SoC architecture
 - 👯 I’m looking to collaborate on research papers
 - 🌱 I’m currently learning physical design in VLSI
-- 👨‍💻 All of my projects are available at https://github.com/Monish-Alavalapati
+- 👨‍💻 All of my projects are available at https://monish-alavalapati.github.io/portfolio
 - 💬 Ask me about anything
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uaRRT1JIIcv--yr1PEAX5czZK5wnrBF1/view?usp=sharing)
 - ⚡ Fun fact I'm a professional minesweeper player :)
