@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey 👋, I an Monish 
 🔭 I’m currently working on Approximate Computing and SoC architecture<br>👯 I’m looking to collaborate on research papers<br>🤝 I’m looking for help with nothing <br>🌱 I’m currently learning physical design in VLSI<br>💬 Ask me about anything<br>⚡ Fun fact I'm a professional minesweeper player :)
 
 
