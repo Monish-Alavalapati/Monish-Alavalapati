@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning physical design in VLSI
 - 👨‍💻 All of my projects are available at https://monish-alavalapati.github.io/portfolio
 - 💬 Ask me about anything
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uaRRT1JIIcv--yr1PEAX5czZK5wnrBF1/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17A4znr1toXfldidfAGmm2HlIaIhKoIhY/view?usp=sharing)
 - ⚡ Fun fact I'm a professional minesweeper player :)
 - 📫 How to reach me **alavalapati22bec16@iiitkottayam.ac.in**
 ## 🌐 Socials:
